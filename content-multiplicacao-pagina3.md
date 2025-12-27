@@ -271,4 +271,4 @@ Você dominou multiplicação quando consegue:
 
 **Parabéns!** Você completou o módulo de Multiplicação. Agora está pronto para Divisão!
 
-<YouTubeEmbed videoId="PLACEHOLDER_MULTIPLICACAO_REVISAO" title="Revisão Completa: Multiplicação Dominada" />
+<YouTubeEmbed videoId="BetgRvNQEC0" title="Revisão Completa: Multiplicação Dominada" />

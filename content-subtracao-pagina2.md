@@ -4,7 +4,7 @@
 
 Assim como a adição nos leva para a **direita** na reta numérica, a subtração nos leva para a **esquerda**. Quando subtraímos, estamos **voltando** ou **retirando** quantidades. É como andar para trás em uma linha de números.
 
-<YouTubeEmbed videoId="PLACEHOLDER_SUBTRACAO_RETA" title="Subtração na Reta Numérica - Movimento Para a Esquerda" />
+<YouTubeEmbed videoId="2qLW90Fi7G4" title="Subtração na Reta Numérica - Movimento Para a Esquerda" />
 
 **Regra de Ouro:** Subtrair = Mover Para a Esquerda
 

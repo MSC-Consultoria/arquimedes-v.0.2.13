@@ -4,7 +4,7 @@
 
 A tabuada é a **base** de toda matemática prática. Memorizar as multiplicações de 1 a 10 torna cálculos do dia a dia muito mais rápidos e confiantes.
 
-<YouTubeEmbed videoId="PLACEHOLDER_TABUADA" title="Tabuada Completa: Estratégias de Memorização" />
+<YouTubeEmbed videoId="dSvQnPtKiVg" title="Tabuada Completa: Estratégias de Memorização" />
 
 **Por que memorizar?**
 - Calcular preços rapidamente no supermercado

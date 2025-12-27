@@ -263,7 +263,9 @@ pnpm test:watch
 pnpm test:coverage
 ```
 
-**Status atual:** 19/19 testes passando (100%)
+> Os testes de backend dependem de um banco MySQL/TiDB acessível e pré-populado com as páginas e exercícios (use `pnpm db:push` seguido de `pnpm seed`). Em ambientes sem banco, eles falham por falta de dados de disciplinas/módulos e conexão ao banco.
+
+**Status atual:** suíte falha localmente sem banco configurado (erros de conexão e dados ausentes)
 
 ---
 

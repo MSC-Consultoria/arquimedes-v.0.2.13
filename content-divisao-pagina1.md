@@ -4,7 +4,7 @@
 
 Divisão é a operação de **repartir** ou **distribuir** igualmente. Quando dividimos, estamos respondendo à pergunta: "Se eu tenho X e quero dividir em Y partes iguais, quanto fica em cada parte?"
 
-<YouTubeEmbed videoId="PLACEHOLDER_DIVISAO_CONCEITO" title="Divisão: Repartir e Distribuir Igualmente" />
+<YouTubeEmbed videoId="61S-Rayhc7c" title="Divisão: Repartir e Distribuir Igualmente" />
 
 **Exemplo do dia a dia:**
 - Você tem 12 balas e quer dividir igualmente entre 3 amigos → 12 ÷ 3 = 4 balas para cada

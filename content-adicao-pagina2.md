@@ -4,7 +4,7 @@
 
 Você já parou para pensar como seria difícil entender direções sem um mapa? A reta numérica é exatamente isso: um **mapa dos números**. Ela nos ajuda a visualizar onde cada número está localizado e como eles se relacionam entre si. Quando adicionamos números, estamos essencialmente **nos movendo nesse mapa**, sempre para a direita (em direção aos números maiores).
 
-<YouTubeEmbed videoId="PLACEHOLDER_RETA_NUMERICA" title="Introdução à Reta Numérica - Visualizando Números no Espaço" />
+<YouTubeEmbed videoId="1e8qtYBvcmo" title="Introdução à Reta Numérica - Visualizando Números no Espaço" />
 
 A reta numérica não é apenas uma ferramenta matemática abstrata. Ela representa situações reais do nosso dia a dia:
 

@@ -4,7 +4,7 @@
 
 Você já aprendeu **o que é adição** e como **visualizá-la na reta numérica**. Agora é hora de colocar esse conhecimento em prática! Esta aula é dedicada a exercícios progressivos que vão desde operações simples até problemas complexos do mundo real.
 
-<YouTubeEmbed videoId="PLACEHOLDER_EXERCICIOS_ADICAO" title="Exercícios Práticos de Adição - Do Básico ao Avançado" />
+<YouTubeEmbed videoId="HjyCT6K5O1I" title="Exercícios Práticos de Adição - Do Básico ao Avançado" />
 
 **Por que praticar é essencial?**
 

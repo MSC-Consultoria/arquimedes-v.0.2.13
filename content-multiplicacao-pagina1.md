@@ -4,7 +4,7 @@
 
 Multiplicação é uma **forma rápida de fazer somas repetidas**. Em vez de escrever 5 + 5 + 5 + 5, podemos escrever **4 × 5** (quatro vezes cinco).
 
-<YouTubeEmbed videoId="PLACEHOLDER_MULTIPLICACAO_CONCEITO" title="Multiplicação: Soma Repetida Explicada" />
+<YouTubeEmbed videoId="izaSmMXZRgk" title="Multiplicação: Soma Repetida Explicada" />
 
 **Exemplo do dia a dia:**
 - Você compra 3 pacotes de biscoito, cada um com 8 biscoitos → 3 × 8 = 24 biscoitos
