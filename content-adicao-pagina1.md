@@ -4,7 +4,7 @@
 
 Adição é a operação matemática mais fundamental e natural. Desde criança, você já somava sem perceber: "Se eu tenho 2 balas e ganho mais 3, fico com 5 balas". **Somar é juntar quantidades**.
 
-<YouTubeEmbed videoId="dQw4w9WgXcQ" title="Adição: O Conceito Básico Explicado" />
+<YouTubeEmbed videoId="25MKvVixayM" title="Adição: O Conceito Básico Explicado" />
 
 **Exemplo do dia a dia:**
 - Você tem R$ 50 na carteira e recebe R$ 100 de pagamento → 50 + 100 = R$ 150

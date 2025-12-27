@@ -266,7 +266,7 @@ Você dominou divisão quando consegue:
 
 **Parabéns!** Você completou todo o módulo de Operações Básicas (Adição, Subtração, Multiplicação e Divisão)!
 
-<YouTubeEmbed videoId="PLACEHOLDER_DIVISAO_REVISAO" title="Revisão Completa: Divisão Dominada" />
+<YouTubeEmbed videoId="SCAXCtGlgK8" title="Revisão Completa: Divisão Dominada" />
 
 ## Próximos Passos
 

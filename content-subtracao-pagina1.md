@@ -4,7 +4,7 @@
 
 Muitas pessoas têm medo da subtração porque associam essa operação a "perder" ou "ficar com menos". Mas a subtração é simplesmente o **movimento oposto da adição** - e é tão importante quanto! Enquanto a adição nos leva para a direita na reta numérica, a subtração nos leva para a esquerda.
 
-<YouTubeEmbed videoId="PLACEHOLDER_SUBTRACAO_CONCEITO" title="Subtração - O Conceito de Tirar e Separar" />
+<YouTubeEmbed videoId="d2sBQS4wVYI" title="Subtração - O Conceito de Tirar e Separar" />
 
 **Por que a subtração é essencial no dia a dia?**
 

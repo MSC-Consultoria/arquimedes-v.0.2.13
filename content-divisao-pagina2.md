@@ -4,7 +4,7 @@
 
 Nem sempre é possível dividir um número em partes perfeitamente iguais. Quando isso acontece, sobra um **resto**.
 
-<YouTubeEmbed videoId="PLACEHOLDER_DIVISAO_RESTO" title="Divisão com Resto: O Que Sobra?" />
+<YouTubeEmbed videoId="7np0ToPuDuM" title="Divisão com Resto: O Que Sobra?" />
 
 **Exemplo do dia a dia:**
 - Você tem 10 balas e quer dividir entre 3 crianças → 10 ÷ 3 = 3 balas para cada, **sobram 1**
